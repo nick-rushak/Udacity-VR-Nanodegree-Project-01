@@ -1,2 +1,4 @@
 # Udacity-VR-Nanodegree-Project01
-Completed Projects from my Udacity VR nanodegree
+
+Unity: 2017.1.0f3
+GVR: 1.60.0  
